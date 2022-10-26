@@ -1,7 +1,15 @@
 ### Hi there 👋
 
+
+
 <!--
 **kay-adamof/kay-adamof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p align="center">
+  <a href="http://twitter.com/_adamof_">
+    <img src="https://img.shields.io/twitter/follow/_adamof_?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="kay adamof's Twitter"/>
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
