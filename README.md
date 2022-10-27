@@ -1,12 +1,15 @@
 ### Hi there 👋
 
-I'm kay-adamof. 
+I'm kay-adamof. Welcome to my Github home😸.
 
 I love ...
 
 - Software Technology 
 - Productivity Tools.
-- Contributing / helping someone 
+- Contributing to Open Source Software 
+- Struggling to help someone 
+
+Please connect with me if you don't care about, I'm a kind man in my own way 😎
 
 <p align="center">
   <a href="http://twitter.com/_adamof_">
