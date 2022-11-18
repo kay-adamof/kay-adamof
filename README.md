@@ -9,6 +9,27 @@ I love ...
 - Contributing to Open Source Software 
 - Struggling to help someone 
 
+## Skill Stack
+
+## Fun Stack
+
+- Shuffle Dance
+- Cooking
+- A bit of muscle training
+
+## Learning Stack
+
+- Docker
+- JavaScript/TypeScript
+- NodeJS
+- NextJS
+- MongoDB
+- React
+- 
+
+## Contribution Stack
+
+## 
 Please connect with me on SNS.
 
 <p align="center">
