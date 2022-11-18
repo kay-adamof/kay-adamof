@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm kay-adamof. Welcome to my Github home😸.
+I'm kay-Adamof. Welcome to my GitHub home😸. I'm a full-stack-oriented developer who is self-taught.
 
 I love ...
 
@@ -9,7 +9,7 @@ I love ...
 - Contributing to Open Source Software 
 - Struggling to help someone 
 
-Please connect with me if you don't care about, I'm a kind man in my own way 😎
+Please connect with me on SNS.
 
 <p align="center">
   <a href="http://twitter.com/_adamof_">
