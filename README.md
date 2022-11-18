@@ -33,8 +33,8 @@ I love ...
 
 - [Karabiner Element - keyboard customizer for macOS](https://karabiner-elements.pqrs.org/)
 - [Neovim - text editor without using mouse/trackpad](https://neovim.io/)
-- [Vimium - web browsing just by using keyboard]()
-
+- [Vimium - web browsing just by using keyboard](https://github.com/philc/vimium)
+- [Lazygit - for the lazier of git](https://github.com/jesseduffield/lazygit)
 
 Please connect with me on SNS.
 
